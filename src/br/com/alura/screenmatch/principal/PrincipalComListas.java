@@ -41,6 +41,6 @@ public class PrincipalComListas {
         System.out.println("depois de ordenar");
         System.out.println(buscaPorArtista);
 
-        Collections.sort(lista);
+
     }
 }
