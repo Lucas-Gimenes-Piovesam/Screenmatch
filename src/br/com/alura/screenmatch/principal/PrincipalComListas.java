@@ -40,7 +40,7 @@ public class PrincipalComListas {
         Collections.sort(buscaPorArtista);
         System.out.println("depois de ordenar");
         System.out.println(buscaPorArtista);
-
+//teste
 
     }
 }
